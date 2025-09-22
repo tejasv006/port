@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>BMW</title>
+  <title>Mercedes</title>
 </head>
 <body style="background-color:aqua">
   <div style="background-color: #F2F2F2; border: 20px solid #000000; padding: 10px; margin: 0px; width: 300px; height: 350px; color: #C62300;">
